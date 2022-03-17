@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Electronic and Telecommunications Engineering at Mbeya University of Science and Technology Tanzania.
+- 🎓 &nbsp; Studied Electronic and Telecommunications Engineering at Mbeya University of Science and Technology`(MUST)` in `Tanzania`.
 - 💼 &nbsp; Working as a KYC remediation officer at CRDB bank plc.
 - 🌱 &nbsp; Learning more about Web design, Frontend development and Backend Development.
 <!-- - ✍️ &nbsp; side hustles. -->
