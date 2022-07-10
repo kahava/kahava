@@ -37,6 +37,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kahavadesigner@gmail.com)](mailto:kahavadesigner@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=255624743390&text=Hi!fromgit)](https://api.whatsapp.com/send?phone=255624743390&text=Hi! Mr kahava)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=255624743390&text=Hi!fromgit)](https://api.whatsapp.com/send?phone=255624743390&text=)
 
 ⭐️ From [kahava](https://github.com/kahava)
