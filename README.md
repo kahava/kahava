@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ✍️ &nbsp; I'm the founder of iDeploy.
+### ✍️ &nbsp; I'm the founder of iDeploy.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Electronic and Telecommunications Engineering at Mbeya University of Science and Technology`(MUST)` in `Tanzania`.
 - 💼 &nbsp; Working as Intern at CRDB bank plc.
