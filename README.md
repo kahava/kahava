@@ -3,11 +3,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+-✍️ &nbsp; I'm the founder of iDeploy.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Electronic and Telecommunications Engineering at Mbeya University of Science and Technology`(MUST)` in `Tanzania`.
-- 💼 &nbsp; Working as a KYC remediation officer at CRDB bank plc.
+- 💼 &nbsp; Working as Intern at CRDB bank plc.
 - 🌱 &nbsp; Learning more about Web design, Frontend development and Backend Development.
-<!-- - ✍️ &nbsp; side hustles. -->
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -36,6 +37,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kahavadesigner@gmail.com)](mailto:kahavadesigner@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=255624743390&text=Hi!fromgit)](https://api.whatsapp.com/send?phone=255624743390&text=Hi!fromgit)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=255624743390&text=Hi!fromgit)](https://api.whatsapp.com/send?phone=255624743390&text=Hi! Mr kahava)
 
 ⭐️ From [kahava](https://github.com/kahava)
