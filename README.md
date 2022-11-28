@@ -12,8 +12,9 @@ I do my work with creativity and primarily focus on results. By the way, coding 
 
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-  ![PHP]
-  ![Python]
+  `PHP`
+  `Python`
+  `SHELL`
   ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
