@@ -3,17 +3,21 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-### ✍️ &nbsp; I'm the founder of iDeploy.
+-✍️ &nbsp; I'm the founder of iDeploy.
+- &nbsp; I am a software engineer with an interest in backend development. With the career goal to solve problems with the use of information technology, I am always trying to learn something new and upgrade my skills.
+I do my work with creativity and primarily focus on results. By the way, coding is my passion and I enjoy solving problems with the super power of computers.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Electronic and Telecommunications Engineering at Mbeya University of Science and Technology`(MUST)` in `Tanzania`.
-- 💼 &nbsp; Working as Intern at CRDB bank plc.
-- 🌱 &nbsp; Learning more about Web design, Frontend development and Backend Development.
+- 💼 &nbsp; Working as `Support Engineer(Voice)` at NBC bank LTD.
+- 🌱 &nbsp; Learning more about Automation, Linux systems, Networking, and APIs/Backend Development.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+  ![PHP]
+  ![Python]
   ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
